@@ -5,7 +5,7 @@ int main(){
     printf("remote chinh sua\n");
 
     printf("aaaaa\n");
-
-    printf("sua chinh\n");
+    
+    printf("chinh sua\n");
 }
 
