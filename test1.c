@@ -6,6 +6,6 @@ int main(){
 
     printf("aaaaa\n");
     
-    printf("chinh sua\n");
+    printf("sua chinh\n");
 }
 
