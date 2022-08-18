@@ -5,4 +5,6 @@ int main(){
 
 
     printf("Branch2\n");
+
+    printf("test Branch2\n");
 }
