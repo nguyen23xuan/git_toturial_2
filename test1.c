@@ -7,5 +7,9 @@ int main(){
     printf("aaaaa\n");
     
     printf("sua chinh\n");
+
+    printf("Branch2\n");
+
+    printf("test Branch2\n");
 }
 
